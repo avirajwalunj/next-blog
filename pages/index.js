@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import FeaturedPosts from "../components/Home/featured-posts";
-import Hero from "../components/Home/Hero";
+import Hero from "../components/Home/hero";
 import { getFeaturedPosts } from "../lib/posts-utils";
 import Head from "next/dist/next-server/lib/head";
 
